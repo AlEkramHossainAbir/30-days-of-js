@@ -8,3 +8,4 @@ const test = ()=>{
 const next = test();
 console.log(next());
 console.log(next());
+console.log(next());
